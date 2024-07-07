@@ -1,12 +1,28 @@
-h1{
-    color: #00a780 ;
+.title{
+    color: #293651;
     font-size: 48px;
     font-weight: bold;
     text-align: center;
 }
-h2{
-    color: #293651;
+.subtitle1{
+    color: #00a780 ;
     font-size: 26px;
     font-family: sans-serif;
+    text-align: center;
+}
+.subtitle2{
+    color: #293651;
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 2pt;
+    font-family: sans-serif;
+    text-align: center;
+}
+.text{
+    color: #76778c;
+    font-size: 20px;
+    font-family: sans-serif;
+    letter-spacing: 1.2pt;
+    line-height: 32px;
     text-align: center;
 }
