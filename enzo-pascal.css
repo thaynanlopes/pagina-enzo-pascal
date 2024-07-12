@@ -5,10 +5,11 @@
     text-align: center;
 }
 .subtitle1{
-    color: #00a780 ;
-    font-size: 26px;
+    color: #00a78e ;
+    font-size: 32px;
     font-family: sans-serif;
     text-align: center;
+    font-weight: 100;
 }
 .subtitle2{
     color: #293651;
@@ -26,3 +27,13 @@
     line-height: 32px;
     text-align: center;
 }
+.btn{
+    background-color: #00a78e;
+    border-radius: 5px;
+    padding: 20px 40px;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: white;
+   }
+   
